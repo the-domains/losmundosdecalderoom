@@ -1,6 +1,6 @@
 name: LosMundosDeCalderoom
 favicon: null
-layout_spectrum: 0.19775
+layout_spectrum: 0
 typography_spectrum: 0.84375
 title: La magia esta dentro de ti
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3352893372066319
   lightness: 0.37050396273843944
   saturation: 0.18303666193969548
-  rhythmicContrast: 0.1179508927743882
+  rhythmicContrast: 0.25
 purpose: []
